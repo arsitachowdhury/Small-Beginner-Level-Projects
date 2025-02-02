@@ -1,0 +1,17 @@
+ /* History section styling */
+.history {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.history p {
+    margin: 5px 0;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
